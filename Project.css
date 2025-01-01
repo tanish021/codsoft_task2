@@ -22,12 +22,6 @@
     font-size: 20px;
     color: rgb(10, 246, 206);
 }
-.logo{
-    background-image: url("amazon_logo.png");
-    background-size: cover;
-    height: 50px;
-    width: 100%;
-}
 
 .border{
     border: 1.3px solid transparent;
@@ -228,7 +222,6 @@ ul a {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-left: 37rem;
     font-size: larger;
     font-weight: bolder;
 }    
